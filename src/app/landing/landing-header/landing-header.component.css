@@ -1,0 +1,29 @@
+.navbar {
+    background-color: #120724;
+}
+
+.navbar-brand {
+    font-weight: 600;
+}
+
+.loginButton {
+    color: blue;
+    background-color: #ffffff;
+    padding: 8px 15px;
+    font-weight: 500;
+}
+
+.loginButton:hover {
+    background-color: #d6d6d6;
+}
+
+.signupButton {
+    color: white;
+    background-color: blue;
+    padding: 15px 10px auto 10px;
+    font-weight: 500;
+}
+
+.signupButton:hover {
+    background-color: #0a0aad;
+}
